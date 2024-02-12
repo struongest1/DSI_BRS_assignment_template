@@ -32,3 +32,5 @@ class Analysis():
 
     def plot_data(self, save_path:Optional[str] = None) -> plt.Figure:
         pass
+    def myfunction():
+        print('Hellow world')
